@@ -13,4 +13,5 @@ int main()
 		cout << "\nWould you like to run again? y/n: ";
 		cin >> x;
 	} while(x == 'y'); // Decides to run again or not
+	cout << "Thank you for using TEGC!";
 }
